@@ -1,6 +1,12 @@
-/* Your code goes here, if needed */
-
-
+.navbar{
+    background-color: #638AD0;
+    height: 100px;
+    color: white !important;
+    
+}
+.resize {
+    height: 100%;
+}
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
 .red {
